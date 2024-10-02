@@ -1,1 +1,11 @@
 /.env
+/session.session
+/bin/
+/lib/
+/include/
+/lib64/
+/share/
+/pyvenv.cfg
+/lib64
+/.idea
+/__pycache__/
